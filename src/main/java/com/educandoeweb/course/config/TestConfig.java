@@ -2,12 +2,10 @@ package com.educandoeweb.course.config;
 
 import java.time.Instant;
 import java.util.Arrays;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
-
 import com.educandoeweb.course.entities.Category;
 import com.educandoeweb.course.entities.Order;
 import com.educandoeweb.course.entities.Product;
